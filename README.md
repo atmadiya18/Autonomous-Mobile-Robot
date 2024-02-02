@@ -1,4 +1,4 @@
-# ME_597_final_project_env
+#final_project_env
 
 To spawn the dynamic obstacles:
 
